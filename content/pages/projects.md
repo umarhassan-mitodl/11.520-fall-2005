@@ -2,6 +2,8 @@
 content_type: page
 description: The projects section contains information about the summary of project
   information and project content and write-up deadline for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

@@ -2,6 +2,8 @@
 content_type: page
 description: The readings section contains information about required readings for
   the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -54,7 +56,7 @@ GIS Principles and Methods
 WinAthena Introduction (Required for Students who did not do CRN Computing Orientation)
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "61c60618-e7f6-40e9-94ce-24cf8a29db5d" "NCGIA Core Curriculum in GIScience" %}} - {{% resource_link "61c60618-e7f6-40e9-94ce-24cf8a29db5d" "ncgia.ucsb.edu/units/u002/u002.html" %}}{{% resource_link "d8d7bb11-b44c-4eb1-a64e-c8a5f6169d1e" "Unit 2: What is GIS?" %}}  
+[NCGIA Core Curriculum in GIScience](http://ncgia.ucsb.edu/units/u002/u002.html) - [ncgia.ucsb.edu/units/u002/u002.html](http://ncgia.ucsb.edu/units/u002/u002.html)[Unit 2: What is GIS?](http://www.ncgia.ucsb.edu/giscc/units/u002/)  
   
 Worboys. pp. 1-15.
 {{< tdclose >}}

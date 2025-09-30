@@ -6,6 +6,8 @@ description: 'This resource discusses the major topic: spatial analysis (using v
 file: /courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/ba4f25bbab3bf66d44c4d2f2bfe290f5_lect_7.pdf
 file_size: 120550
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: This resource is an in-lab notes for lab exercise 6.
 file: /courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/502f360cea21ff3610ddc0f369ab76de_lab6a.pdf
 file_size: 36515
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

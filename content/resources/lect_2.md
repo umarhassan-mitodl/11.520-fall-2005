@@ -6,6 +6,8 @@ description: This is resource discusses the general approach to the course, how 
 file: /courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/0704f033d283b2e47004e0bc7d71a2f3_lect_2.pdf
 file_size: 252204
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
