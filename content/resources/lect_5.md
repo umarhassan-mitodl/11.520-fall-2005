@@ -6,8 +6,6 @@ description: This resource discusses the Database concepts and issues in GIS, re
 file: /courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/b16e0d95535cab262d16233b82edeff6_lect_5.pdf
 file_size: 136168
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

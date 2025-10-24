@@ -5,8 +5,6 @@ description: This resource discusses the lab exercise based on Thematic Mapping 
 file: /courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/7a48adb7215eaee455d9ea1ecc6640a1_lab2.pdf
 file_size: 1722786
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

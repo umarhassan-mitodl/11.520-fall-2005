@@ -5,8 +5,6 @@ description: 'This resource discusses the elements of the map: map scale, symbol
 file: /courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/edb09c019745aa864170e2c007cc11a7_lect_3.pdf
 file_size: 303608
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

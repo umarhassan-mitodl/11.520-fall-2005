@@ -9,8 +9,6 @@ description: This resource discusses the GIS data models, CAD data models, compu
 file: /courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/b66c9045553df5c1032bf76dc4c0bbdb_lect_4.pdf
 file_size: 122088
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

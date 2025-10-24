@@ -4,8 +4,6 @@ description: This resource is a solution map for the question asked in sample ex
 file: /courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/ad2452c30f63312a07fad5e73903ef5e_exam_smpsolqii4b.pdf
 file_size: 20438
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

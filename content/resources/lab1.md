@@ -5,8 +5,6 @@ description: This resource contains the lab exercise based on ArcGIS basics (int
 file: /courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/42d5af4431c690b935e6da2ebcd925c8_lab1.pdf
 file_size: 909272
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

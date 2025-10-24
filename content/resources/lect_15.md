@@ -5,8 +5,6 @@ description: This resource discusses the administrative, test comments, Terrain 
 file: /courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/5f969adf7fa17588f044bfdbafeb8e18_lect_15.pdf
 file_size: 46085
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

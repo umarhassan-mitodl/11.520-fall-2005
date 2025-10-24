@@ -5,8 +5,6 @@ description: This resource discusses the raster analysis, geocoding, network ana
 file: /courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/9f3b5557ed9add8cc209d32d7e32fc7d_lect_9.pdf
 file_size: 52505
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: This resource contains 2 questions based on creating and maintainin
 file: /courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/671fc44e3a594b1c87b0061ad6c1050d_assn2.pdf
 file_size: 648760
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
